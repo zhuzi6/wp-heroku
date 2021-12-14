@@ -28,6 +28,8 @@
         "wpackagist-plugin/oss-upload": "*",
         "wpackagist-plugin/xml-sitemap-feed": "*",
         "wpackagist-plugin/amp": "*",
+        "wpackagist-plugin/gutenberg":"12.1.0",
+        "wpackagist-plugin/featured-image-from-url":"3.8.0",
         "wpackagist-plugin/insert-headers-and-footers": "*",
         "wpackagist-plugin/wp-crontrol": "*",
 
@@ -45,10 +47,10 @@
             "type": "package",
             "package": {
                 "name": "wordpress/wordpress",
-                "version": "5.4.2",
+                "version": "5.8.2",
                 "dist": {
                     "type": "zip",
-                    "url": "https://cn.wordpress.org/wordpress-5.4.2-zh_CN.zip"
+                    "url": "https://cn.wordpress.org/wordpress-5.8.2-zh_CN.zip"
                 }
             }
         },
