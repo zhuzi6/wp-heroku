@@ -31,6 +31,8 @@
         "wpackagist-plugin/gutenberg":"12.1.0",
         "wpackagist-plugin/featured-image-from-url":"3.8.0",
         "wpackagist-plugin/insert-headers-and-footers": "*",
+        "wpackagist-plugin/wordpress-importer":"0.7",
+        
         "wpackagist-plugin/wp-crontrol": "*",
 
         "wpackagist-plugin/easy-wp-smtp": "*",
